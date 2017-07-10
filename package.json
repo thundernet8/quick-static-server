@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@types/node": "^8.0.9",
+    "express": "^4.15.3",
+    "mkdirp": "^0.5.1",
+    "typescript": "^2.4.1",
+    "yargs": "^8.0.2"
+  },
+  "name": "quick-static-server",
+  "version": "0.0.1",
+  "description": "quick serve static files with only one command",
+  "main": "./lib/serve.js",
+  "bin": {
+    "qss": "./bin/qss"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": "git@github.com:thundernet8/quick-static-server.git",
+  "author": "wuxueqian <wuxueqian2010@hotmail.com>",
+  "license": "MIT"
+}
