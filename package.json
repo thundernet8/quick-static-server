@@ -6,7 +6,7 @@
     "typescript": "^2.4.1",
     "yargs": "^8.0.2"
   },
-  "name": "quick-static-server",
+  "name": "quick-serve-static",
   "version": "0.0.1",
   "description": "quick serve static files with only one command",
   "main": "./lib/serve.js",

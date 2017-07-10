@@ -2,6 +2,15 @@
 
 Quickly server your static files with only one command
 
+## Install
+```
+npm install quick-serve-static -g
+```
+
+or
+```
+yarn global add quick-serve-static
+```
 
 ## Usage
 
